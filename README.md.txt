@@ -1,11 +1,12 @@
-# Stock Price Prediction using IBM SPSS Modeler
+Stock Price Prediction using IBM SPSS Modeler
 
-## Objective
+Objective
+
 The objective of this project is to analyze and predict stock price trends using IBM SPSS Modeler and machine learning techniques.
 
----
 
-## Dataset Description
+Dataset Description
+
 The dataset contains:
 - Open Price
 - High Price
@@ -13,35 +14,33 @@ The dataset contains:
 - Close Price
 - Volume
 
----
+ Tools Used
 
-## Tools Used
 - IBM SPSS Modeler
 - Machine Learning
 - Data Visualization
 - GitHub
 
----
 
-## Workflow
+ Workflow
+
 1. Import Dataset
 2. Data Preprocessing
 3. Feature Engineering
 4. Model Building
 5. Prediction Analysis
 
----
+ Models Used
 
-## Models Used
 - C&R Tree
 - Regression
 
----
 
-## Result
+Result
+
 The C&R Tree model achieved the highest prediction accuracy.
 
----
 
-## Conclusion
+Conclusion
+
 The project successfully predicts stock prices using IBM SPSS Modeler.
